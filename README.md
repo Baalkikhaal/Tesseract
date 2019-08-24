@@ -2,19 +2,18 @@
 
 # Testing Tesseract for Optical Character recognition
 
-- Setting up the Project on Windows
-- HOWTO use the Python scripts
+- [Setting up the Project on Windows](#Setting-up-the-Project-on-Windows)
+- [HOWTO use the Python scripts](#HOWTO-use-the-Python-scripts)
 
 ## Setting up the Project on Windows
 
-- Install Google's [Tesseract](https://github.com/madmaze/pytesseract) library
-- Install Popper Utils
-- Create a project directory
-- Set up [Python virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
+- [Install Tesseract](#Install-Tesseract)
+- [Install Popper Utils](#Install-Popper-Utils)
+- [Set up Python virtual environment](#Set-up-Python-virtual-environment)
 
-### Install Google's [Tesseract](https://github.com/madmaze/pytesseract) library
+### Install Tesseract
 
-Download from the link and install it. After installation, add the path to the binary `tesseract.exe` to environment variable `PATH`
+Google's [Tesseract](https://github.com/madmaze/pytesseract) library is used here for Optical Character Recognition (OCR). Download from the link and install it. After installation, add the path to the binary `tesseract.exe` to environment variable `PATH`
 
 Image1
 ![Tesseract Install](/Tutorial/Screenshots/TesseractOCRhowTo.png)
@@ -53,11 +52,12 @@ However, an alternative solution is to use [Windows Subsystem for Linux](https:/
 Image5
 ![Poppler for Windows](/Tutorial/Screenshots/TesseractOCRhowTo5.png)
 
-### Create a project directory
+### Set up Python virtual environment
+
+[Python virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) is useful for setting up isolated environments for packages. Before setting up the environment, first, create a project directory
 
 `PythonProjects\Tesseract`
 
-### Set up [Python virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 Enter the project
 
 `..\PythonProjects> cd Tesseract`
