@@ -1,6 +1,7 @@
 '''Convert png to txt using pytesseract module, a python wrapper for Google's Tesseract-OCR library
 References:
 - [Pytesseract](https://github.com/madmaze/pytesseract)
+- [Tesseract for Windows](https://github.com/UB-Mannheim/tesseract/wiki)
 - [Tesseract HOWTO](https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/)
 '''
 import pytesseract
