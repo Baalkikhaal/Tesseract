@@ -1,0 +1,92 @@
+ 
+
+weaving the web
+
+things. He is the kind of engineer who can be driven mad by the
+
+incompatibility of power plugs. No wonder, then, that he would
+be attracted to a solution to computer incompatibility, especially
+coming with a simple user interface. In the marriage of hypertext
+and the Internet, Robert was best man.
+
+Robert's real gift was enthusiasm, translated into a genius for
+spreading the gospel. While I sat down to begin to write the
+Web's code, Robert, whose office was a several-minute walk
+away, put his energy into making the WWW project happen at
+CERN. He rewrote a new proposal in terms he felt would have
+more effect. A CERN veteran since 1973, he lobbied among his
+wide network of friends throughout the organization. He looked
+for student helpers, money, machines, and office space.
+
+By the time Mike Sendall approved my purchase of the NeXT
+machine, I had already gone to the hypertext industry looking for
+products onto which we could piggyback the Web. At CERN there
+was a “Buy, don’t build” credo about acquiring new technology.
+‘There were several commercial hypertext editors, and I thought
+we could just add some Internet code so the hypertext documents
+could be sent over the Internet. I thought the companies engaged
+in the then fringe field of hypertext products would immediately
+grasp the possibilities of the Web. Unfortunately, their reaction
+was quite the opposite. "Nope," they said. "Too complicated.”
+
+Undaunted, in September 1990 Robert and I went to the
+European Conference on Hypertext Technology (ECHT) at Ver-
+sailles to pitch the idea. The conference exhibition was small, but
+there were a number of products on display, such as a multi-
+media training manual for repairing a car.
+
+1 approached Ian Ritchie and the folks from Owl Ltd., which
+had a product called Guide. In Peter Brown's original Guide
+work at the University of Southampton, when a user clicked on a
+hypertext link, the new document would be inserted right there
+in place. The version now commercialized by Ow! looked astonish-
+ingly like what I had envisioned for a Web browsér—the program
+26
+
+ 
+
+info cern ch
+
+{ would open and display documents, and preferably let people
+vt them, too. All that was missing was the Internet. They've
+«ready done the difficult bit! I thought, so I tried to persuade them
+to add an Internet connection. They were friendly enough, but
+they, too, were unconvinced.
+
+I got the same response from others at the conference. It
+seemed that explaining the vision of the Web to people was
+exceedingly difficult without a Web browser in hand. People had
+to be able to grasp the Web in full, which meant imagining a
+whole world populated with Web sites and browsers. They had to
+sense the abstract information space that the Web could bring
+into being. It was a lot to ask.
+
+The hypertext community may also have been slightly demor-
+alized. Their small conference was not getting any bigger, and no
+one was sure where the field was headed. The lack of commer-
+cial successes had perhaps left a certain cynicism about bright
+new ideas that could change the world.
+
+Another possibility I saw was called Dynatext, and was from
+Electronic Book Technology, a company in Rhode Island started
+by Andy Van Dam, the Brown University researcher who had
+coined the term electronic book. I thought the company's software
+could be turned into a Web browser/editor rather easily. However,
+like many hypertext products at the time, it was built around the
+idea that a book had to be “compiled” (like a computer program)
+to convert it from the form in which it was written to a form in
+which it could be displayed efficiently. Accustomed to this cum-
+bersome multistep process, the EBT people could not take me
+seriously when I suggested that the original coded language could
+be sent across the Web and displayed instantly on the screen.
+
+They also insisted on a central link database to ensure that
+there were no broken links. Their vision was limited to sending
+text that was fixed and consistent—in this case, whole books. I
+was looking at a living world of hypertext, in which all the pages
+would be constantly changing. It was a huge philosophical gap.
+
+ar
+
+ 
+

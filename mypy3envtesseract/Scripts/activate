@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="F:\Databases\PythonProjects\Tesseract\mypy3envtesseract"
+VIRTUAL_ENV="E:\Databases\PythonProjects\Tesseract\mypy3envtesseract"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

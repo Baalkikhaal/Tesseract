@@ -1,0 +1,252 @@
+CHAPTER 3
+
+Enquire Within
+upon Everything
+
+‘When I first began tinkering with a software program that even-
+tually gave rise to the idea of the World Wide Web, I named it
+Enquire, short for Enquire Within upon Everything, a musty old
+book of Victorian advice I noticed as a child in my parents’ house
+outside London. With its title suggestive of magic, the book
+served as a portal to a world of information, everything from how
+to remove clothing stains to tips on investing money. Not a per-
+fect analogy for the Web, but a primitive starting point.
+
+What that first bit of Enquire code led me to was something
+much larger, a vision encompassing the decentralized, organic
+growth of ideas, technology, and society. The vision I have for the
+Web is about anything being potentially connected with anything.
+It is a vision that provides us with new freedom, and allows us to
+grow faster than we ever could when we were fettered by the
+
+1a a
+
+weaving the wes
+
+hierarchical classification systems into which we bound our-
+selves. It leaves the entirety of our previous ways of working as
+just one tool among many. It leaves our previous fears for the
+future as one set among many, And it brings the workings of soci-
+ety closer to the workings of our minds.
+
+Unlike Enquire Within upon Everything, the Web that I have
+tried to foster is not merely a vein of information to be mined,
+nor is it just a reference or research tool. Despite the fact that the
+ubiquitous www and .com now fuel electronic commerce and stock
+markets all over the world, this is a large, but just one, part of the
+Web. Buying books from Amazon.com and stocks from E-trade is
+not all there is to the Web. Neither is the Web some idealized space
+where we must remove our shoes, eat only fallen fruit, and eschew
+commercialization.
+
+The irony is that in all its various guises—commerce, research,
+and surfing—the Web is already so much a part of our lives that
+familiarity has clouded our perception of the Web itself. To
+understand the Web in the broadest and deepest sense, to fully
+partake of the vision that I and my colleagues share, one must
+understand how the Web came to be.
+
+The story of how the Web was created has been told in various
+books and magazines, Many accounts I've read have been distorted
+or just plain wrong. The Web resulted from many influences on
+my mind, half-formed thoughts, disparate conversations, and seem-
+ingly disconnected experiments. I pieced it together as I pursued
+my regular work and personal life. I articulated the vision, wrote
+the first Web programs, and came up with the now pervasive
+acronyms URL (then UDI}, HTTP, HTML, and, of course, World
+Wide Web. But many other people, most of them unknown, con-
+tributed essential ingredients, in much the same almost random
+fashion. A group of individuals holding a common dream and
+working together at a distance brought about a great change.
+
+My telling of the real story will show how the Web's evolu-
+tion and its essence are inextricably linked. Only by understand-
+2
+
+ 
+
+enguire within upon everything
+
+ing the Web at this deeper level will people ever truly grasp what
+its full potential can be.
+
+Journalists have always asked me what the crucial idea was,
+or what the singular event was, that allowed the Web to exist one
+day when it hadn't the day before. They are frustrated when I
+tell them there was no “Eureka!” moment. It was not like the leg-
+endary apple falling on Newton's head to demonstrate the con-
+cept of gravity. Inventing the World Wide Web involved my
+growing realization that there was a power in arranging ideas in
+an unconstrained, weblike way. And that awareness came to me
+through precisely that kind of process. The Web arose as the
+answer to an open challenge, through the swirling together of
+influences, ideas, and realizations from many sides, until, by the
+wondrous offices of the human mind, a new concept jelled. It
+was a process of accretion, not the linear solving of one well-
+defined problem after another.
+
+I am the son of mathematicians. My mother and father were
+part of the team that programmed the world's first commercial,
+stored-program computer, the Manchester University "Mark I,"
+which was sold by Ferranti Ltd. in the early 1950s. They were
+full of excitement over the idea that, in principle, a person could
+program a computer to do most anything. They also knew, how-
+ever, that computers were good at logical organizing and process-
+ing, but not random associations. A computer typically keeps
+information in rigid hierarchies and matrices, whereas the
+human mind has the special ability to link random bits of data.
+When I smell coffee, strong and stale, I may find myself again in
+a small room over a corner coffeehouse in Oxford. My brain
+makes a link, and instantly transports me there.
+
+One day when I came home from high school, I found my
+father working on a speech for Basil de Ferranti. He was reading
+books on the brain, looking for clues about how to make a com-
+puter intuitive, able to complete connections as the brain did. We
+discussed the point; then my father went on to his speech and I
+
+3Weaving the web
+
+went on to my homework. But the idea stayed with me that com-
+puters could become much more powerful if they could be pro-
+grammed to link otherwise unconnected information,
+
+This challenge stayed on my mind throughout my studies at
+Queen's College at Oxford University, where I graduated in 1976
+with a degree in physics. It remained in the background when I
+built my own computer with an early microprocessor, an old tele-
+vision, and a soldering iron, as well as during the few years I
+spent as a software engineer with Plessey Telecommunications
+and with D.G. Nash Ltd.
+
+Then, in 1980, I took a brief software consulting job with
+CERN,! the famous European Particle Physics Laboratory in
+Geneva. That's where I wrote Enquire, my first weblike program.
+I wrote it in my spare time and for my personal use, and for no
+loftier reason than to help me remember the connections among
+the various people, computers, and projects at the lab. Still, the
+larger vision had taken firm root in my consciousness.
+
+Suppose all the information stored on computers everywhere were
+linkeci I thought. Suppose I could program my computer to create a
+space in which anything could be linked to anything. All the bits of
+information in every computer at CERN, and on the planet,
+would be available to me and to anyone else. There would be a
+single, global information space.
+
+Once a bit of information in that space was labeled with an
+address, I could tell my computer to get it. By being able to refer-
+ence anything with equal ease, a computer could represent asso-
+ciations between things that might seem unrelated but somehow
+
+did, in fact, share a relationship. A web of information would
+form.
+
+1 The name CERN derives from the name of the international council {Conseil
+Européen pour la Recherche Nucléaire], which originally started the lab. The
+council no longer exists, and ‘Nuclear’ no longer describes the physics done
+there, so while the name CERN has stuck, it is not regarded as an acronym.
+
+4
+
+ 
+
+ 
+
+enquire within upon everything
+
+Computers might not find the solutions to our problems, but
+they would be able to do the bulk of the legwork required, assist
+ing our human minds in intuitively finding ways through the
+maze. The added excitement was that computers also could follow
+and analyze the tentative connective relationships that defined
+much of our society's workings, unveiling entirely new ways to
+see our world. A system able to do that would be a fantastic thing
+for managers, for social scientists, and, ultimately, for everyone.
+
+Unbeknownst to me at that early stage in my thinking, sev-
+eral people had hit upon similar concepts, which were never
+implemented. Vannevar Bush, onetime dean of engineering at
+MIT, became head of the U.S. Office of Scientific Research and
+Development during World War II and oversaw development of
+the first atomic bomb. In a 1945 article in the Atlantic Monthly
+titled “As We May Think,” he wrote about a photo-electro-
+mechanical machine called the Memex, which could, by a
+process of binary coding, photocells, and instant photography,
+make and follow cross-references among microfilm documents.
+
+Ted Nelson, a professional visionary, wrote in 1965 of “Liter-
+ary Machines," computers that would enable people to write and
+publish in a new, nonlinear format, which he called hypertext.
+Hypertext was "nonsequential” text, in which a reader was not
+constrained to read in any particular order, but could follow links
+and delve into the original document from a short quotation. Ted
+described a futuristic project, Xanadu, in which all the world’s
+information could be published in hypertext. For example, if you
+were reading this book in hypertext, you would be able to follow
+a link from my reference to Xanadu to further details of that pro-
+ject. In Ted's vision, every quotation would have been a link back
+to its source, allowing original authors to be compensated by a
+very small amount each time the quotation was read. He had the
+dream of a utopian society in which all information could be
+shared among people who communicated as equals. He struggled
+for years to find funding for his project, but success eluded him.
+
+5weaving the wee
+
+Doug Engelbart, a researcher at Stanford University, demon-
+strated a collaborative workspace called NLS (ON Line System} in
+the 1960s. Doug's vision was for people to use hypertext as a tool
+for group work. In order to help himself steer his computer's cur-
+Sor across the screen and select hypertext links with ease, Doug
+invented a wooden block with sensors and a ball underneath,
+and called it a mouse. In a now-famous video, which I didn't see
+until 1994, Doug demonstrated using electronic mail and hyper-
+text links with great agility with his homemade mouse in his
+right hand and a five-key piano-chord keyboard in his left hand.
+The idea was that a person could interface with the machine in a
+very close, natural way. Unfortunately, just like Bush and Nelson,
+Doug was too far ahead of his time. The personal computer revo-
+lution, which would make Engelbart's "mouse" as familiar as the
+pencil, would not come along for another fifteen years. With that
+revolution, the idea of hypertext would percolate into software
+design.
+
+Of course, the next great development in the quest for global
+connectivity was the Internet, a general communications infra-
+structure that links computers together, on top of which the Web
+rides. The advances by Donald Davis, by Paul Barran, and by
+Vint Cerf, Bob Kahn, and colleagues had already happened in the
+1970s, but were only just becoming pervasive.
+
+I happened to come along with time, and the right interest
+and inclination, after hypertext and the Internet had come of age.
+The task left to me was to marry them together.
+
+ 
+
+ 
+
+ 
+
+Tangles,
+
+Links, and Webs
+
+‘The research center for particle physics known as CERN straddles
+the French-Swiss border near the city of Geneva. Nestled under
+the limestone escarpments of the Jura mountains, ten minutes
+from the ski slopes, with Lac Leman below and Mont Blanc
+above, it offered unique research opportunitics, and the area
+
+a very pleasant place to live.
+ai meen an scientists arrived at CERN from all over the
+world to investigate the most fundamental properties of matter.
+Using enormous machines, they would accelerate tiny nuclear
+particles through a series of tubes that, though only a few inches
+wide, ran for several kilometers within a mammoth circular
+underground tunnel. Researchers would rev up the particles to
+extremely high energies, then allow them to collide. For an
+
+unimaginably brief instant, new particles might be made, then
+7
