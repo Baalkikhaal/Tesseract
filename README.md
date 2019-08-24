@@ -16,7 +16,7 @@
 Google's [Tesseract](https://github.com/madmaze/pytesseract) library is used here for Optical Character Recognition (OCR). Download from the link and install it. After installation, add the path to the binary `tesseract.exe` to environment variable `PATH`
 
 Image1
-![Tesseract Install](/Tutorial/Screenshots/TesseractOCRhowTo.png)
+![Tesseract Install](/Tutorial/Screenshots/TesseractOCRhowTo9.png)
 
 #### Testing Tesseract
 
